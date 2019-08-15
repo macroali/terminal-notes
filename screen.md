@@ -8,7 +8,7 @@ screen -S screenback
 screen -ls
 
 ## Entrar en los screen:
-screen -r (si hay una sola)
+screen -r (si hay una sola) <br>
 screen -r ID (si hay varias)
 
 ## Salir del screen
